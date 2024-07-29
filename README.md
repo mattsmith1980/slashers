@@ -1,0 +1,2 @@
+# slashers
+slashers-stakepool
